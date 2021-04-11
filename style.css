@@ -1,0 +1,42 @@
+html {
+  background-color: tomato;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+body {
+  margin: 30vh;
+  padding: 1vh 1vh;
+  height: 25vh;
+  border: 3px solid;
+  border-color: black;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: wheat;
+}
+
+div {
+  background-color: teal;
+  margin: 1vh;
+}
+
+#first {
+  border: 3px solid white;
+  width: 5vw;
+  height: 5vh;
+}
+
+#second {
+  border: 3px dashed white;
+  width: 20vw;
+  height: 5vh;
+}
+
+#third {
+  border: 3px solid white;
+  width: 5vw;
+  height: 5vh;
+}
